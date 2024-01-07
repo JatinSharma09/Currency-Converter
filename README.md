@@ -4,7 +4,7 @@
 
 This project is your one-stop shop for all things currency exchange. Forget juggling tabs and outdated rates - get **accurate, real-time conversions at your fingertips**, wherever you are in the world. 
 
-** Features that make your money sing:**
+## Features that make your money sing:
 
 * ⚡ Lightning-fast conversions:** No more waiting! See live exchange rates for any currency pair the moment you enter an amount.
 *  Multi-currency magic:** Over 130 currencies at your disposal, from the familiar USD and EUR to the more exotic NGN and VND.
