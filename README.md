@@ -12,7 +12,7 @@ This project is your one-stop shop for all things currency exchange. Forget jugg
 * ⭐ Save your favorites:** Keep your frequently used currencies close at hand for quick conversions.
 *  Stay informed:** Set up alerts to be notified when exchange rates hit your target levels.
 
-**Built with love for:**
+## **Built with love for:**
 
 * Travelers ✈️
 * Global businesses 
